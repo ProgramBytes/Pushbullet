@@ -1,0 +1,8 @@
+C:\Users\RichardL\Documents\Visual Studio 2008\Projects\ProgramBytesPushbullet\ProgramBytesPushbullet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RichardL\Documents\Visual Studio 2008\Projects\ProgramBytesPushbullet\ProgramBytesPushbullet\bin\ProgramBytesPushbullet.dll
+C:\Users\RichardL\Documents\Visual Studio 2008\Projects\ProgramBytesPushbullet\ProgramBytesPushbullet\bin\ProgramBytesPushbullet.pdb
+C:\Users\RichardL\Documents\Visual Studio 2008\Projects\ProgramBytesPushbullet\ProgramBytesPushbullet\bin\SimplSharpCustomAttributesInterface.dll
+C:\Users\RichardL\Documents\Visual Studio 2008\Projects\ProgramBytesPushbullet\ProgramBytesPushbullet\bin\SimplSharpHelperInterface.dll
+C:\Users\RichardL\Documents\Visual Studio 2008\Projects\ProgramBytesPushbullet\ProgramBytesPushbullet\obj\Debug\ProgramBytesPushbullet.dll
+C:\Users\RichardL\Documents\Visual Studio 2008\Projects\ProgramBytesPushbullet\ProgramBytesPushbullet\obj\Debug\ProgramBytesPushbullet.pdb
+C:\Users\RichardL\Documents\Visual Studio 2008\Projects\ProgramBytesPushbullet\ProgramBytesPushbullet\bin\Newtonsoft.Json.Compact.dll
